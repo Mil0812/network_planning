@@ -1,0 +1,23 @@
+#frame{
+  background-color: #0032a4;
+}
+
+.frameForOptions{
+  border: 2mm ridge rgb(121, 160, 231);
+}
+
+h1{
+  font-family: "Bookman Old Style";
+  color: #f8fcff;
+  text-align: center;
+}
+label{
+  font-family: "Bookman Old Style";
+  color: #0032a3;
+}
+button{
+  background-color: rgb(0, 46, 150);
+  color: #f6fafd;
+  border-color: #f6fafd;
+  margin: 5px;
+}
